@@ -20,7 +20,7 @@ export const InteriorSection = (): JSX.Element => {
           <div className="col-span-2 lg:col-span-2 animate-scale-in animation-delay-200">
             <div className="relative group overflow-hidden rounded-2xl shadow-xl hover-lift">
               <img
-                src="/img-6805-1.png"
+                src="/img/MySoulImg1.png"
                 alt="Главный зал кофейни"
                 className="w-full h-48 md:h-64 lg:h-80 object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -36,7 +36,7 @@ export const InteriorSection = (): JSX.Element => {
           <div className="col-span-1 animate-scale-in animation-delay-400">
             <div className="relative group overflow-hidden rounded-2xl shadow-xl hover-lift">
               <img
-                src="/img-6805-2.png"
+                src="/img/MySoulImg2.png"
                 alt="Барная стойка"
                 className="w-full h-48 md:h-64 lg:h-80 object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -52,7 +52,7 @@ export const InteriorSection = (): JSX.Element => {
           <div className="col-span-1 animate-scale-in animation-delay-600">
             <div className="relative group overflow-hidden rounded-2xl shadow-xl hover-lift">
               <img
-                src="/img-6805-3.png"
+                src="/img/MySoulImg3.png"
                 alt="Уютный уголок"
                 className="w-full h-48 md:h-64 lg:h-80 object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -67,7 +67,7 @@ export const InteriorSection = (): JSX.Element => {
           <div className="col-span-1 animate-scale-in animation-delay-800">
             <div className="relative group overflow-hidden rounded-2xl shadow-xl hover-lift">
               <img
-                src="/img-6805-4.png"
+                src="/img/MySoulImg4.png"
                 alt="Детали интерьера"
                 className="w-full h-48 md:h-64 lg:h-80 object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -82,7 +82,7 @@ export const InteriorSection = (): JSX.Element => {
           <div className="col-span-1 animate-scale-in animation-delay-1000">
             <div className="relative group overflow-hidden rounded-2xl shadow-xl hover-lift">
               <img
-                src="/img-6805-5.png"
+                src="/img/MySoulImg5.png"
                 alt="Общий вид заведения"
                 className="w-full h-48 md:h-64 lg:h-80 object-cover transition-transform duration-700 group-hover:scale-110"
               />
